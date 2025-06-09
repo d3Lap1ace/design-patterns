@@ -17,6 +17,7 @@
         <module>templete-method</module>
         <module>abstract-factory-method</module>
         <module>composite</module>
+        <module>build</module>
     </modules>
 
     <properties>
