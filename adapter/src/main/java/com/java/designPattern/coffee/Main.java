@@ -1,4 +1,4 @@
-package com.java.designPattern.example;
+package com.java.designPattern.coffee;
 
 public class Main {
     public static void main(String[] args) {

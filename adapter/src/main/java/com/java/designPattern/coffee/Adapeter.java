@@ -1,6 +1,4 @@
-package com.java.designPattern.example;
-
-import lombok.Data;
+package com.java.designPattern.coffee;
 
 
 public class Adapeter extends NewModthem {

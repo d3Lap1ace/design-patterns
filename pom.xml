@@ -18,6 +18,7 @@
         <module>abstract-factory-method</module>
         <module>composite</module>
         <module>build</module>
+        <module>decorator</module>
     </modules>
 
     <properties>

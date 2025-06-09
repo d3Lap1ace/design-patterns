@@ -1,6 +1,6 @@
 package com.java.designPattern;
 
-import com.java.designPattern.example.Singleton;
+import com.java.designPattern.coffee.Singleton;
 
 public class Main {
     public static void main(String[] args) {

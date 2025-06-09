@@ -13,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/build/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/composite/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iterator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iterator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/prototype/src/main/java" charset="UTF-8" />
